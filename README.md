@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @JayMarzan36
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello there, I'm Jay! 😁
 
-<!---
-JayMarzan36/JayMarzan36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a freshman in college studying Computer Science at [Utah State University][1]. I'm very interested in CyberSecurity and that is what I plan on doing with Computer Science. I'm passionate about all things programming and always looking to learn something new. 
+
+#### Looking to Contact me?
+* jaymarzan36@gmail.com
+
+## Programming Languages
+I started programming wanting to make a video game, and found out about Python. Which little did I know, would send me down this path. So far I know Python and Java, but I'm hoping and planning to learn more.
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+
+
+
+
+
+[1]: <https://www.usu.edu/>
