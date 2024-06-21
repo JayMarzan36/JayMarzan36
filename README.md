@@ -1,6 +1,6 @@
 # Hello there, I'm Jay! 😁
 
-I'm a freshman in college studying Computer Science at [Utah State University][1]. I'm very interested in CyberSecurity and that is what I plan on doing with Computer Science. I'm passionate about all things programming and always looking to learn something new. 
+I'm a freshman in college studying Computer Science at [Utah State University][1]. I'm on the fence about what I want to do in computer science, but I have a couple of ideas on what I want to do. I'm passionate about all things programming and always looking to learn something new. 
 
 #### Looking to Contact me?
 * jaymarzan36@gmail.com
