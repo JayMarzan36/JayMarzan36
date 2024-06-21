@@ -1,6 +1,6 @@
 # Hello there, I'm Jay! 😁
 
-I'm a freshman in college studying Computer Science at [Utah State University][1]. I'm on the fence about what I want to do in computer science, but I have a couple of ideas on what I want to do. Maybe cause I'm interested in almost everything. Such as data, machine learning, and software development. I'm passionate about all things programming and always looking to learn something new. 
+I'm a freshman in college studying Computer Science at [Utah State University][1]. I'm on the fence about what I want to do in computer science, but I have a couple of ideas on what I want to do. Maybe cause I'm interested in almost everything. Such as data, machine learning, and software development. But I'm always passionate about all things programming and always looking to learn something new everyday. 
 
 #### Looking to Contact me?
 * jaymarzan36@gmail.com
